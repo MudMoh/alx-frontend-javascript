@@ -40,6 +40,6 @@ function printTeacher({ firstName, lastName }: { firstName: string, lastName: st
   return `${firstName}. ${lastName}`;
 }
 
-const printTeacherFunction: printTeacherFunction = printTeacher;
+// const printTeacherFunction: printTeacherFunction = printTeacher;
 
 console.log(printTeacher({ firstName: "John", lastName: "Doe" }));
