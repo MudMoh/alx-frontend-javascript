@@ -7,3 +7,4 @@ export class Subject {
     this.teacher = teacher;
   }
 }
+

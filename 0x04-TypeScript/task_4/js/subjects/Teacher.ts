@@ -5,3 +5,4 @@ export interface Teacher {
   experienceTeachingReact?: number;
   experienceTeachingJava?: number;
 }
+
